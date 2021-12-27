@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @foczka4
-- 👀 I’m interested in programming in Java
-- 🌱 I’m currently learning Java, JUnit
-- 💞️ I’m looking to collaborate on Java topics
+- 👀 I’m interested in programming in Java and Angular
+- 🌱 I’m currently learning Java, Angular
+- 💞️ I’m looking to collaborate on Java, Angular topics
 - 📫 How to reach me - gtihub
 
 <!---
